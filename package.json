@@ -1,0 +1,10 @@
+{
+  "name": "google_apps_script",
+  "version": "1.0.0",
+  "dependencies": {
+    "@google/clasp": "^2.4.1"
+  },
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.47"
+  }
+}
